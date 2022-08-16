@@ -5,11 +5,11 @@ This repository will be for planning the semester and what needs to be done. Als
 ## Project Structure:
 I will be using a separate repository for each project. This will help with keeping it clean and organized. 
 The projects are as follows:
--Project 1: Agile & Scrum
--Project 2: API Development
--Project 3: Web App Project Testing Patterns
--Project 4: RPA & Testing Project
--Project 5: Reporting Project
+###Project 1: Agile & Scrum
+###Project 2: API Development
+###Project 3: Web App Project Testing Patterns
+###Project 4: RPA & Testing Project
+###Project 5: Reporting Project
 ## Branching Strategy:
 (ADD STAPPE EN FOTO)
 ## Why the use of .gitignore files:
