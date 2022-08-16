@@ -10,6 +10,8 @@ The projects are as follows:
 ### Project 3: Web App Project Testing Patterns
 ### Project 4: RPA & Testing Project
 ### Project 5: Reporting Project
+A diagram explaining project and repository context and how they are integrated:
+
 ## Branching Strategy:
 (ADD STAPPE EN FOTO)
 ## Why the use of .gitignore files:
