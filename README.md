@@ -1,7 +1,7 @@
 # CMPG-323-Overview-31612032
 Project 1
 ## Overview:
-This repository will be for planning the semester and what needs to be done. Also, a structure will be added on how and when each project is completed as well as a brief explanation on what branching strategy I will be using.
+This repository will be for planning the semester and what needs to be done. Also, a structure will be added on how and when each project is completed as well as a brief explanation on what branching strategy I will be using. After that I will be explaning in my own opinion based in research, why I will be using .gitignore files. The ReadMe end off with an explanation on how I think I'll be storing sensitive information and credentials.
 ## Project Structure:
 I will be using a separate repository for each project. This will help with keeping it clean and organized. 
 The projects are as follows: <br />
@@ -11,8 +11,8 @@ The projects are as follows: <br />
 - Project 4: RPA & Testing Project <br />
 - Project 5: Reporting Project <br /> <br />
 A diagram explaining project and repository context and how they are integrated:
-![Readme file photo](https://user-images.githubusercontent.com/90267019/185401475-71e3f993-9e12-4d96-9f5d-711132326a4f.png)
-
+![Readme file photo](https://user-images.githubusercontent.com/90267019/185401475-71e3f993-9e12-4d96-9f5d-711132326a4f.png) <br />
+Basically, what this diagram shows, is that the Semester Plan will be the centre of all work done this semester. This includes projects, tasks, classes, Q&A sessions and the final POE.
 
 ## Branching Strategy:
 This is a example of the branching strategy that I will be using throughout my projects:  <br />
