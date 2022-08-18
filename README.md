@@ -11,7 +11,7 @@ The projects are as follows: <br />
 - Project 4: RPA & Testing Project <br />
 - Project 5: Reporting Project <br /> <br />
 A diagram explaining project and repository context and how they are integrated:
-![The-structure-of-a-GitHub-based-project-illustrating-project-structure-and-interactions](https://user-images.githubusercontent.com/90267019/184972770-522d43c7-da22-4480-bbaa-aa20bf2c9af3.png)
+![Readme file photo](https://user-images.githubusercontent.com/90267019/185401475-71e3f993-9e12-4d96-9f5d-711132326a4f.png)
 
 
 ## Branching Strategy:
