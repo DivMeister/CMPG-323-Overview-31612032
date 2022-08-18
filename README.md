@@ -1,7 +1,7 @@
 # CMPG-323-Overview-31612032
 Project 1
 ## Overview:
-This repository will be for planning the semester and what needs to be done. Also, a structure will be added on how and when each project is completed as well as a brief explanation on what branching strategy I will be using. After that I will be explaning in my own opinion based in research, why I will be using .gitignore files. The ReadMe end off with an explanation on how I think I'll be storing sensitive information and credentials.
+This repository will be for planning the semester and what needs to be done. Also, a structure will be added on how and when each project is completed as well as a brief explanation on what branching strategy I will be using. After that I will be explaning in my own opinion based in research, why I will be using .gitignore files. The ReadMe end off with an explanation on how I think I'll be storing sensitive information and credentials. Lastly the Burndown chart for Semester Plan project is also added to the readme.
 ## Project Structure:
 I will be using a separate repository for each project. This will help with keeping it clean and organized. 
 The projects are as follows: <br />
@@ -25,3 +25,6 @@ These function are used to tell when a file has to be ignored when committing a 
 ## Storage of credentials and sensitive information explanation:
 The main feature for sensitive information is git-secret. <br />
 It encrypts a file and stores it directly in the repository. The history of any changes for every commit will be provided. 
+## Burndown Chart:
+![Burndown Chart](https://user-images.githubusercontent.com/90267019/185412850-3b95b089-c5f8-4133-83ac-392aa1b6c9c1.PNG)
+
